@@ -29,6 +29,10 @@ namespace ConsoleApp1
         public static void PrintToConsole(this String message)
         {
             Console.WriteLine(message);
+            //v1
+            //v2
+            //V3
+            //V4
         }
     }
 
