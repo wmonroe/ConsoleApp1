@@ -30,11 +30,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine(message);
             //v1
-            //v2
-            //V3
-            //V4
-            //V5
-            //V6
+            // V2
+          
         }
     }
 
