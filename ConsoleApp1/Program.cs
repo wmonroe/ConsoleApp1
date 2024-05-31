@@ -9,7 +9,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var myNumbers = new List<int> { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            var myNumbers = new List<int> { 0, 1, 2, 3, 4, 5, 6, 7, 8, 10 };
 
             var number = myNumbers.Where(n => n > 5);
             foreach (var item in number )
