@@ -18,7 +18,7 @@ namespace ConsoleApp1
                 item.ToString().PrintToConsole();
             }
             Console.WriteLine("**************************");
- 
+             Console.WriteLine("**************************");
 
             Console.ReadLine();
         }        
