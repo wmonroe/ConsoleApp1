@@ -4,6 +4,7 @@ using System.Linq;
 TestWM Test 1
 bill goes hereM Test 1
     WRM_3
+    wrm4 WRM4B
 WRM 2
 master M Test 1
 wrm2
