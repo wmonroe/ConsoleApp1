@@ -8,6 +8,7 @@ master M Test 1
 wrm2
     
 cs test 2
+    cs3
 master
 namespace ConsoleApp1
 {
