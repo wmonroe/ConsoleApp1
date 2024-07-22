@@ -3,8 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 TestWM Test 1
 bill goes hereM Test 1
+WRM 2
 master M Test 1
+wrm2
+    
 cs test 2
+master
 namespace ConsoleApp1
 {
     class Program
