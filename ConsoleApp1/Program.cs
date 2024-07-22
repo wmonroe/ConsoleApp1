@@ -9,6 +9,7 @@ wrm2
     
 cs test 2
     cs3
+    cs4
 master
 namespace ConsoleApp1
 {
